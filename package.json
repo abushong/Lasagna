@@ -1,0 +1,28 @@
+{
+  "name": "lasagna",
+  "version": "1.0.0",
+  "description": "Javascript game by Jon and Alex",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abushong/Lasagna.git"
+  },
+  "keywords": [
+    "javascript",
+    "browser",
+    "game"
+  ],
+  "author": "Jon and Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abushong/Lasagna/issues"
+  },
+  "homepage": "https://github.com/abushong/Lasagna#readme"
+}
